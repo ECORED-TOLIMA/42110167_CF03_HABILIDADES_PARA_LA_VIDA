@@ -93,11 +93,10 @@
           .row(numero="4" titulo="El contexto social ")
             .col-md-12.mb-4.mb-md-0
               p Es el conjunto de circunstancias que enmarcan una situación que afecta a uno o más individuos. El mismo hecho puede ocurrir en un entorno u otro y su análisis y evaluación cambiarán dependiendo de lo que sea (Torres, et al., 2003). Se puede crecer en una familia específica, vivir en una ciudad determinada, tener relaciones con ciertos amigos y moverse en un círculo de relaciones que es lo que se conoce como el contexto social con el que un individuo interactúa de manera inmediata. 
+              p Este texto aborda cómo las interacciones con los demás y con el entorno contribuyen al desarrollo de competencias ciudadanas, sociales y laborales, facilitando la adaptación a los desafíos diarios, promoviendo el equilibrio entre las convicciones personales y las necesidades colectivas.
             .col-md-12
               figure
                 img(src='@/assets/curso/temas/tema1/img9.png', alt='Imagen deocrativa')
-
-    p(data-aos="fade-left") Este texto aborda cómo las interacciones con los demás y con el entorno contribuyen al desarrollo de competencias ciudadanas, sociales y laborales, facilitando la adaptación a los desafíos diarios, promoviendo el equilibrio entre las convicciones personales y las necesidades colectivas.
     
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -177,7 +176,7 @@
 
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
       h5 Figura 2.
-      span  #[i Relación competencias socio emocionales y ciudadanas]
+      span  #[i Relación competencias socioemocionales y ciudadanas]
     
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")

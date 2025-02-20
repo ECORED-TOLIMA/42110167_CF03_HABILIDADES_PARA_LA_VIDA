@@ -51,7 +51,7 @@
           .col-6
             img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
         h4.text-center Actividades
-        p.text-center Incluyen las tareas específicas que se llevarán a cabo para alcanzar los objetivos. Por ejemplo, Realizar talleres de capacitación sobre el mantenimiento del sistema de filtración.
+        p.text-center Incluyen las tareas específicas que se llevarán a cabo para alcanzar los objetivos. Por ejemplo, realizar talleres de capacitación sobre el mantenimiento del sistema de filtración.
       .tarjeta.bg5.p-4
         .row.justify-content-center.mb-3
           .col-6
@@ -69,7 +69,7 @@
       .col-lg-3.col-md-6.col-sm-8.mb-lg-0.mb-4(data-aos="zoom-in")
         img(src='@/assets/curso/temas/tema3/img9.svg', alt='')
       .col-lg-7(data-aos="fade-left")
-        p La metodología del marco lógico ofrece varias ventajas, como claridad y enfoque, que permite proporcionar una estructura lógica que facilita la comprensión del proyecto a las partes interesadas y guías las acciones para los participantes. Sumado a esto al ser un enfoque que permite la interacción con otros, permite integrar desde la academia otros tipos de diseño de intervención (por ejemplo, Investigación Acción, IA o Investigación Acción Participativa IAP).
+        p La metodología del marco lógico ofrece varias ventajas, como claridad y enfoque, que permite proporcionar una estructura lógica que facilita la comprensión del proyecto a las partes interesadas y guía las acciones para los participantes. Sumado a esto al ser un enfoque que permite la interacción con otros, permite integrar desde la academia otros tipos de diseño de intervención (por ejemplo, Investigación Acción, IA o Investigación Acción Participativa IAP).
         p.mb-0 Esta permite la participación comunitaria de las partes involucradas, para la búsqueda de identificar los problemas y sus soluciones siendo además adaptable a contextos diversos y cambiantes y finalmente la evaluación de la efectividad del proyecto e intervención está definida previamente. 
     
     separador

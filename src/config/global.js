@@ -113,7 +113,7 @@ export default {
     {
       tema: 'La ciudadanía y los diferentes contextos',
       referencia:
-        'Fundación Ian. (2019). una historia que nos movilizará | Corto Animado.',
+        'Fundación Ian(2019). una historia que nos movilizará | Corto Animado.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6dLEO8mwYWQ',
     },

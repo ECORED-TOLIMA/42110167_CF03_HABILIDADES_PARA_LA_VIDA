@@ -9,14 +9,18 @@
   </template>
 
 <script>
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
 export default {
   name: 'ActividadDidactica',
+  components: {
+    Actividad,
+  },
   data: () => ({
     cuestionario: {
       tema: 'Conociendo las competencias socioemocionales (CSE).',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> identificar las competencias socioemocionales (CSE) del ser, basado en la transformación social que puede lograr alcanzar en sus procesos de vida.<br><b>Se desarrollará una actividad tipo evaluación, con ítems de falso o verdadero; así como, de opción múltiple con única respuesta.</b>',
+        '<b> Objetivo:</b> identificar las competencias socioemocionales (CSE) del ser, basado en la transformación social que puede lograr alcanzar en sus procesos de vida.',
       barajarPreguntas: true,
       preguntas: [
         {
