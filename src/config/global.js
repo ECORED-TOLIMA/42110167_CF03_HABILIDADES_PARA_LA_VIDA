@@ -1,8 +1,7 @@
 export default {
   global: {
-    componenteFormativo:
-      'Las Competencias Socioemocionales (CSE) y la trasformación social',
-    descripcionCurso:
+    Name: 'Las Competencias Socioemocionales (CSE) y la trasformación social',
+    Description:
       'El Desarrollo a Escala Humana (DEH) impone retos en el desarrollo de las Competencias Socioemocionales (CSE), desde la construcción de ciudadanías y las posibilidades del agenciamiento para la transformación personal y social en los diferentes contextos de la vida.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),

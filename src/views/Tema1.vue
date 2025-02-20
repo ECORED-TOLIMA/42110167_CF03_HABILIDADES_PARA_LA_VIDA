@@ -16,6 +16,7 @@
         .cajon.color-primario.p-4.mb-4
           p.mb-0 El contexto está constituido por un entorno físico, todos los objetos, las realizaciones humanas materiales e inmateriales, que se viven y que son modificadas y determinadas por los actos en sociedad y con las cuales se interactúan y a las cuales se asignan determinados valores.
     
+  
     p.mb-5(data-aos="fade-left") Para entender el concepto de ciudadanía, es esencial reconocer que esta se materializa en la ciudad, concebida como un espacio histórico de interacción donde las personas conviven bajo un pacto social. Este pacto regula la convivencia a través de principios que los individuos aceptan y transforman. La ciudadanía se manifiesta en procesos como la formación de alianzas, el reconocimiento mutuo, la gestión de conflictos y la construcción compartida de significados, tanto a nivel individual como colectivo.
 
     .row.justify-content-center.align-items-center.mb-5
