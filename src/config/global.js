@@ -95,7 +95,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_003_42110167_DU.pdf',
+        download: 'downloads/CFA_03_42110167_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -113,7 +113,7 @@ export default {
     {
       tema: 'La ciudadanía y los diferentes contextos',
       referencia:
-        'Fundación Ian(2019). Una historia que nos movilizará | Corto Animado.',
+        'Fundación Ian(2019). Ian, una historia que nos movilizará | Corto Animado.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=6dLEO8mwYWQ',
     },
