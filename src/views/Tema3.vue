@@ -5,155 +5,84 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
-      h1 Elementos del marco lógico 
+      h1 De la reflexión a la acción: competencias socioemocionales y transformación del entorno
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema3/img1.png', alt='')
-      .col-lg-7(data-aos="fade-left")
-        .cajon.color-primario.bg3.p-4.mb-4
-          p.mb-0 El marco lógico es una herramienta clave para diseñar e implementar proyectos que buscan transformar la realidad social. Permite organizar las ideas de manera clara y estructurada, enfocándose en resolver problemas específicos de una comunidad (BID, 2019).
-        p.mb-0 Se caracteriza por su enfoque sistemático, que permite identificar claramente los problemas a resolver, los objetivos que se quieren alcanzar y las acciones necesarias para lograrlo. Esta herramienta tiene múltiples usos y permite ser complementada por diversos enfoques de investigación o de intervención social, sumado a esto es ampliamente reconocida como parte de los apartados metodológicos en diversos contextos nacionales e internaciones para la redacción de proyectos, que pueden tener o no financiamiento.
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="fade-left")
-        p El marco lógico organiza la información de un proyecto en una matriz que describe de manera clara los objetivos, actividades, resultados esperados y los indicadores que evalúan el éxito de un proyecto. Su principal finalidad es alinear las acciones con las necesidades reales de la comunidad, estableciendo un plan que pueda ser monitoreado y ajustado según los resultados obtenidos.
-        p.mb-0 Según el BID, 2019, algunos elementos fundamentales del marco lógico son:
-    
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.bg5.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema3/img2.svg' alt='AvatarTop')
-        h4.text-center Problema central
-        p.text-center Este es el punto de partida y la base del análisis. Implica identificar un problema específico y comprender sus causas y efectos. Herramientas como el árbol de problemas ayudan a visualizar las relaciones entre causas y consecuencias, lo que facilita el diseño de estrategias efectivas.
-      .tarjeta.bg5.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema3/img3.svg' alt='AvatarTop')
-        h4.text-center Objetivo general
-        p.text-center Representa el impacto a largo plazo que se desea lograr en la comunidad. Este objetivo debe estar relacionado directamente con la resolución del problema central. Por ejemplo, reducir la incidencia de enfermedades relacionadas con el consumo de agua contaminada.
-      .tarjeta.bg5.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
-        h4.text-center Objetivos específicos
-        p.text-center Son metas intermedias que conducen al logro del objetivo general. Estos objetivos deben ser concretos, alcanzables y medibles. Por ejemplo, instalar un sistema de filtración de agua en la comunidad en un periodo de seis meses.
-      .tarjeta.bg5.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema3/img5.svg' alt='AvatarTop')
-        h4.text-center Resultados esperados
-        p.text-center Son los beneficios directos que el proyecto producirá si se cumplen los objetivos específicos. Por ejemplo, un 90 % de las familias en la comunidad acceden a agua potable segura.
-      .tarjeta.bg5.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
-        h4.text-center Actividades
-        p.text-center Incluyen las tareas específicas que se llevarán a cabo para alcanzar los objetivos. Por ejemplo, realizar talleres de capacitación sobre el mantenimiento del sistema de filtración.
-      .tarjeta.bg5.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
-        h4.text-center Indicadores
-        p.text-center Miden los avances y el impacto del proyecto, tanto en términos de resultados como de la efectividad de las actividades realizadas. Por ejemplo, número de familias que utilizan correctamente el sistema instalado.
-      .tarjeta.bg5.p-4
-        .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema3/img8.svg' alt='AvatarTop')
-        h4.text-center Supuestos y riesgos
-        p.text-center Se identifican las condiciones externas que podrían influir positiva o negativamente en el proyecto. Por ejemplo, un riesgo podría ser la falta de lluvias que afecte el sistema de captación de agua. 
-    
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.col-md-6.col-sm-8.mb-lg-0.mb-4(data-aos="zoom-in")
-        img(src='@/assets/curso/temas/tema3/img9.svg', alt='')
-      .col-lg-7(data-aos="fade-left")
-        p La metodología del marco lógico ofrece varias ventajas, como claridad y enfoque, que permite proporcionar una estructura lógica que facilita la comprensión del proyecto a las partes interesadas y guía las acciones para los participantes. Sumado a esto al ser un enfoque que permite la interacción con otros, permite integrar desde la academia otros tipos de diseño de intervención (por ejemplo, Investigación Acción, IA o Investigación Acción Participativa IAP).
-        p.mb-0 Esta permite la participación comunitaria de las partes involucradas, para la búsqueda de identificar los problemas y sus soluciones siendo además adaptable a contextos diversos y cambiantes y finalmente la evaluación de la efectividad del proyecto e intervención está definida previamente. 
-    
-    separador
-    
+    figure.mb-4
+      img(src='@/assets/curso/temas/tema3/img01.png', alt='')
+
+    p De la reflexión a la acción implica reconocer que las competencias socioemocionales no se limitan al ámbito personal, sino que se expresan en la manera en que las personas interpretan su realidad, toman decisiones y actúan en los distintos entornos donde participan. Este tema invita a transitar del análisis de la vida cotidiana y las emociones asociadas a ella, hacia acciones conscientes que contribuyan al bienestar individual y colectivo. A partir del reconocimiento de capacidades, relaciones y contextos, se promueve una participación activa orientada a la transformación positiva de los entornos familiares, sociales, educativos y comunitarios.
+
+    Separador
+
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.1 Fases de implementación del marco lógico
+      h2 3.1. Reconocer la realidad desde la vida cotidiana
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="fade-left")
-        p Este enfoque estructurado permite organizar y gestionar proyectos de manera eficiente, asegurando que cada etapa del ciclo sea planificada, ejecutada y evaluada con base en objetivos claros. Cada fase desempeña un papel fundamental en la identificación de necesidades, la asignación de recursos, la ejecución de actividades y la medición del impacto, garantizando la alineación de las acciones con las metas propuestas. A continuación, se detallan estas fases y sus características principales:
+    p.mb-4 Las personas enfrentan diariamente situaciones que influyen en su bienestar, en sus relaciones y en la manera en que participan en los diferentes entornos familiares, educativos, laborales, sociales y comunitarios. Algunas de estas situaciones pueden generar motivación, crecimiento y aprendizaje; mientras que otras pueden producir estrés, conflictos, inseguridad o dificultades para alcanzar metas personales y colectivas.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desktop
-        ImagenInfografica.color-acento-botones
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/temas/tema3/img10.svg', alt='')
+    .row.justify-content-center
+      .col.col-lg-10.col-12
+        .cajon.C03.p-4.mb-4
+          .row.justify-content-center
+            .col-lg-auto.d-none.d-lg-block
+              figure
+                img(src='@/assets/curso/temas/tema3/img02.svg', width='70', alt='')
+            .col-lg
+              p Reconocer la realidad implica observar y comprender las situaciones que hacen parte de la vida cotidiana, identificando las necesidades, emociones, relaciones y condiciones del entorno que influyen en la forma de pensar, sentir y actuar.
+              p Este proceso también permite reconocer capacidades, recursos y oportunidades que pueden contribuir a afrontar diferentes situaciones y generar cambios positivos en la vida personal y comunitaria. Desde el enfoque de Desarrollo a Escala Humana (DEH), las necesidades humanas no se entienden únicamente como carencias, sino también como potencialidades que movilizan a las personas a buscar bienestar, participación, identidad, relaciones positivas y otras condiciones importantes para el desarrollo humano.
 
-          .tarjeta.color-primario.bg3.p-3(x="52.5%" y="14%" numero="+")
-            .h5.mb-2 Diseño del proyecto
-            p En esta fase se definen los objetivos, los resultados esperados y las actividades necesarias. También se asignan recursos y se identifican posibles riesgos.
+    Separador
 
-          .tarjeta.color-primario.bg3.p-3(x="95.7%" y="14%" numero="+")
-            .h5.mb-2 Monitoreo y evaluación
-            p Se evalúa el progreso utilizando los indicadores definidos en el marco lógico. También se recopila información sobre los resultados y el impacto general del proyecto.
-
-          .tarjeta.color-primario.bg3.p-3(x="29.3%" y="83.4%" numero="+")
-            .h5.mb-2 Diagnóstico inicial
-            p Implica un análisis detallado de la situación actual. Aquí se identifican las necesidades, los recursos disponibles y los problemas principales que se van a abordar.
-            p Herramientas útiles: mapeo participativo, encuestas y talleres comunitarios.
-
-          .tarjeta.color-primario.bg3.p-3(x="74%" y="83.4%" numero="+")
-            .h5.mb-2 Ejecución
-            p Es la implementación del plan diseñado. Aquí se llevan a cabo las actividades específicas y se registran los avances para futuras evaluaciones.
-      .col-lg-10.movil
-        figure
-          img(src='@/assets/curso/temas/tema3/img10_1.svg', alt='')
-
-    separador
-    
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.2 Ejemplo práctico de marco lógico
+      h2 3.2. Las competencias socioemocionales y la toma de decisiones
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="fade-left")
-        p En el marco lógico, se presentan ejemplos prácticos que ilustran cómo esta metodología puede ser aplicada para abordar problemáticas específicas en comunidades vulnerables. A continuación, se detalla un caso relacionado con la alta incidencia de enfermedades gastrointestinales debido al consumo de agua no potable, mostrando cómo se estructura un proyecto desde la identificación del problema hasta la definición de objetivos, resultados esperados, indicadores, supuestos y riesgos. Este enfoque permite desarrollar intervenciones efectivas y sostenibles que impactan positivamente en la calidad de vida de las personas afectadas.
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
-        figure
-            img(src='@/assets/curso/temas/tema3/img12.png', alt='')
-      .col-lg-6(data-aos="fade-left")
-        LineaTiempoD.color-acento-botones
-          .row(numero="A" titulo="Problema central")
-            .col-md-12.mb-4.mb-md-0
-              p Alta incidencia de enfermedades gastrointestinales por el consumo de agua no potable.
-          .row(numero="B" titulo="Objetivo general")
-            .col-md-12.mb-4.mb-md-0
-              p Mejorar la salud de la comunidad mediante acceso a agua potable.
-          .row(numero="C" titulo="Objetivos específicos")
-            .col-md-12.mb-4.mb-md-0
-              p Instalar un sistema de captación y filtración de agua.
-              P Capacitar a la comunidad sobre el uso y mantenimiento del sistema.
-          .row(numero="D" titulo="Resultados esperados")
-            .col-md-12.mb-4.mb-md-0
-              p Reducción del 50 % en las enfermedades relacionadas con el agua.
-              P El 80 % de las familias utilizando el sistema de filtración.
-          .row(numero="E" titulo="Indicadores")
-            .col-md-12.mb-4.mb-md-0
-              p Número de sistemas instalados y operativos.
-              P Porcentaje de familias que asisten a las capacitaciones.
-          .row(numero="F" titulo="Supuestos y riesgos")
-            .col-md-12.mb-4.mb-md-0
-              p #[b Supuesto]: el clima permitirá suficiente recolección de agua.
-              P #[b Riesgo]: falta de participación de la comunidad en las capacitaciones.
+    p.mb-4 Las competencias socioemocionales influyen en la manera en que las personas interpretan las situaciones que viven, se relacionan con otras personas y responden frente a los desafíos que se presentan en los diferentes entornos donde participan. Estas competencias permiten reconocer emociones, expresar ideas y opiniones de manera adecuada, afrontar dificultades, resolver conflictos y participar de manera más consciente en diferentes espacios familiares, educativos, laborales, sociales y comunitarios.
 
-    p(data-aos="fade-left") El marco lógico es una herramienta versátil y eficaz que permite diseñar intervenciones sociales con impacto tangible. Su estructura facilita la identificación de problemas, la formulación de objetivos claros y la definición de indicadores para monitorear los avances. Este enfoque no solo promueve una planificación y ejecución estratégica, sino que también garantiza que las soluciones estén alineadas con las necesidades de las comunidades. Al fomentar la participación activa y la interacción con otras metodologías, el marco lógico se convierte en una herramienta adaptable a diversos contextos, contribuyendo significativamente a la transformación social y el desarrollo sostenible.
-
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-left")
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img13.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img03.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los contenidos desarrollados en este componente formativo están basados en el documento Asistencia Técnica de Eurosocial a Prosperidad Social: Producto A. 2020, elaborado por Raciti, P. y Vivaldi, P. Este documento presenta una propuesta de orientaciones conceptuales, metodológicas y operativas para fortalecer las competencias transversales, también conocidas como habilidades para la vida, de los participantes de los programas Jóvenes en Acción, estudiantes de secundaria vinculados a Familias en Acción y madres titulares del Programa Familias en Acción. Estas orientaciones fueron diseñadas para su implementación tanto en modalidades virtuales como presenciales y han sido adoptadas e implementadas por Prosperidad Social en Colombia, con el apoyo de Eurosocial. Bogotá, 2020.
+        p.mb-0 El fortalecimiento de competencias como la empatía, la comunicación, la regulación emocional, la resiliencia, el liderazgo y el trabajo en equipo favorece la construcción de relaciones más respetuosas y la capacidad de actuar frente a situaciones que afectan el bienestar personal o colectivo. Por ejemplo, la empatía permite comprender las perspectivas y emociones de otras personas; la regulación emocional ayuda a manejar reacciones frente a situaciones difíciles; y habilidades como el liderazgo y el trabajo en equipo facilitan la participación y la construcción de acciones colectivas.
+
+    .row.justify-content-center.mb-4
+      .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/temas/tema3/img04.svg', alt='')
+      .col.col-lg-9.col-12.order-lg-2.order-2
+        p.mb-0(data-aos="fade-down") Estas competencias no se desarrollan únicamente en espacios formativos. También se fortalecen a través de las experiencias, las relaciones y las decisiones que las personas toman en su vida diaria. Las situaciones cotidianas, los entornos en los que se participa y las interacciones con otras personas se convierten en oportunidades para aprender, reflexionar y fortalecer capacidades que aportan al desarrollo personal y social.
+
+    .row.justify-content-center
+      .col.col-lg-10.col-12
+        .cajon.cajon.C02.color-secundario.px-4.py-3.mb-4
+          p.mb-0 En este sentido, las competencias socioemocionales contribuyen a que las personas puedan actuar de manera más consciente frente a las situaciones que viven, reconociendo que sus decisiones y acciones también generan efectos en la convivencia, en las relaciones y en los entornos donde participan. Por esta razón, fortalecer estas capacidades no solo aporta al bienestar individual, sino también a la construcción de entornos más participativos, relaciones más positivas y procesos de transformación social orientados al bienestar común.
+
+    Separador
+
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.3. Construcción de cambios en el entorno
+
+    p.mb-4 Las personas y las comunidades enfrentan diferentes situaciones que influyen en su bienestar y en la manera en que se relacionan con los demás. Algunas de estas situaciones pueden generar dificultades en la convivencia, limitar oportunidades o afectar la participación y el desarrollo de proyectos de vida. Sin embargo, también existen capacidades, recursos y redes de apoyo que permiten afrontar los retos y construir alternativas orientadas al bienestar común.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-3.col-md-6.col-sm-8.mb-lg-0.mb-4(data-aos="zoom-in")
+        img(src='@/assets/curso/temas/tema3/img05.png', alt='')
+      .col-lg-7
+        .cajon.cajon.C04.p-4.mb-4(style="border-radius:20px !important")
+          p.mb-0 La transformación social no siempre ocurre a través de grandes cambios. También se construye desde las acciones cotidianas, las relaciones, la participación y las decisiones que las personas toman en sus diferentes entornos. Escuchar a otros, dialogar, trabajar en equipo, participar en actividades comunitarias, apoyar iniciativas colectivas o promover relaciones respetuosas son acciones que pueden generar cambios positivos en la convivencia y fortalecer el tejido social.
+        p En este proceso, las competencias socioemocionales cumplen un papel fundamental, ya que favorecen la participación, la construcción de relaciones solidarias y la capacidad de actuar frente a situaciones que afectan a las personas o comunidades. Competencias como la empatía, la comunicación, la resiliencia, el liderazgo y el manejo de conflictos permiten fortalecer la convivencia, reconocer diferentes perspectivas y construir acuerdos frente a necesidades o problemáticas comunes.
+
+    .row.justify-content-center
+      .col.col-lg-10.col-12
+        .cajon.cajon.C02.color-secundario.px-4.py-3.mb-4
+          p.mb-0 La capacidad de actuar y generar cambios en los diferentes entornos se relaciona con la agencia, entendida como la posibilidad que tienen las personas y las comunidades de tomar decisiones, participar y desarrollar acciones orientadas a transformar situaciones que afectan su bienestar. Esta capacidad puede fortalecerse a través del reconocimiento de las propias capacidades, la participación en espacios colectivos y el desarrollo de habilidades que permitan afrontar los desafíos de la vida cotidiana.
+
+    .row.justify-content-center.mb-4
+      .col-lg-8.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
+        p Fortalecer competencias socioemocionales aporta no solo al desarrollo personal, sino también a la construcción de entornos más participativos, incluyentes y solidarios. Esto permite que las personas reconozcan sus capacidades, participen activamente y contribuyan al bienestar colectivo desde sus experiencias, relaciones y formas de actuar en la vida cotidiana.
+      .col-lg-2.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/temas/tema3/img06.svg', alt='')
+
 
 </template>
 

@@ -87,7 +87,7 @@ export default {
           id: 5,
           texto:
             'El objetivo general en el marco lógico describe el impacto deseado a largo plazo.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -102,7 +102,7 @@ export default {
           id: 6,
           texto:
             'La agencia adaptativa permite a las personas planificar metas a largo plazo.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -117,7 +117,7 @@ export default {
           id: 7,
           texto:
             'El empoderamiento individual puede contribuir al desarrollo comunitario.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -131,7 +131,7 @@ export default {
         {
           id: 8,
           texto: 'El marco lógico no incluye la evaluación de riesgos.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -146,7 +146,7 @@ export default {
           id: 9,
           texto:
             'La formación ciudadana se basa solo en conocimientos técnicos.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -161,7 +161,7 @@ export default {
           id: 10,
           texto:
             'El espacio privado es donde prevalece la dimensión individual.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -176,7 +176,7 @@ export default {
           id: 11,
           texto:
             'La agencia proyectiva permite elaborar planes basados en recursos disponibles.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -190,7 +190,7 @@ export default {
         {
           id: 12,
           texto: 'El marco lógico es una herramienta exclusivamente académica.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -205,7 +205,7 @@ export default {
           id: 13,
           texto:
             'La autoestima no influye en las competencias socioemocionales.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -220,7 +220,7 @@ export default {
           id: 14,
           texto:
             'El contexto social influye en las interacciones cotidianas y decisiones colectivas.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -235,7 +235,7 @@ export default {
           id: 15,
           texto:
             'El marco lógico organiza los objetivos en una matriz clara y estructurada.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -249,7 +249,7 @@ export default {
         {
           id: 16,
           texto: 'La ciudadanía activa solo ocurre en espacios públicos.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -264,7 +264,7 @@ export default {
           id: 17,
           texto:
             'La resiliencia no es una competencia relevante en contextos sociales.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -278,7 +278,7 @@ export default {
         {
           id: 18,
           texto: 'El diagnóstico inicial es una fase del marco lógico.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -293,7 +293,7 @@ export default {
           id: 19,
           texto:
             'El espacio privado fomenta interacciones colectivas sobre intereses generales.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -308,7 +308,7 @@ export default {
           id: 20,
           texto:
             'El marco lógico facilita el monitoreo y evaluación de proyectos.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },

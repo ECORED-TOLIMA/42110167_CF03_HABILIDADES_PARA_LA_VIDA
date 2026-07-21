@@ -7,51 +7,50 @@
         span 1
       h1 La ciudadanía y los diferentes contextos
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-5.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-lg-7(data-aos="fade-left")
         p En este componente formativo, la categoría "contextos" se comprende como los diferentes escenarios en los que las personas interactúan, impulsadas por propósitos y metas que buscan comunicar y negociar significados compartidos de las situaciones que experimentan. Estos significados suelen haber sido construidos previamente por otras personas y reflejan dinámicas sociales acumuladas.
         .cajon.color-primario.p-4.mb-4
           p.mb-0 El contexto está constituido por un entorno físico, todos los objetos, las realizaciones humanas materiales e inmateriales, que se viven y que son modificadas y determinadas por los actos en sociedad y con las cuales se interactúan y a las cuales se asignan determinados valores.
-    
   
-    p.mb-5(data-aos="fade-left") Para entender el concepto de ciudadanía, es esencial reconocer que esta se materializa en la ciudad, concebida como un espacio histórico de interacción donde las personas conviven bajo un pacto social. Este pacto regula la convivencia a través de principios que los individuos aceptan y transforman. La ciudadanía se manifiesta en procesos como la formación de alianzas, el reconocimiento mutuo, la gestión de conflictos y la construcción compartida de significados, tanto a nivel individual como colectivo.
+    p.mb-4(data-aos="fade-left") Para entender el concepto de ciudadanía, es esencial reconocer que esta se materializa en la ciudad, concebida como un espacio histórico de interacción donde las personas conviven bajo un pacto social. Este pacto regula la convivencia a través de principios que los individuos aceptan y transforman. La ciudadanía se manifiesta en procesos como la formación de alianzas, el reconocimiento mutuo, la gestión de conflictos y la construcción compartida de significados, tanto a nivel individual como colectivo.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4
-          .row.justify-content-center.align-items-center
-            .col-lg-2.col-md-6.col-sm-8.mb-lg-0.mb-4(data-aos="zoom-in")
+          .row.justify-content-center
+            .col-lg-2.col-md-6.col-sm-8.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="zoom-in")
               figure
-                img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img2.svg', alt='')
             .col-lg-10(data-aos="fade-left")
               p.mb-0 Según Raciti y Vivaldi (2020), es fundamental diferenciar entre los espacios público y privado en este contexto. El espacio público, íntimamente vinculado con la ciudad, es el ámbito donde se expresan y negocian los derechos, deberes y responsabilidades de los ciudadanos, consolidando su relación con la ciudadanía y los valores colectivos.
     
-    p.mb-4(data-aos="fade-left") En la siguiente figura, se establecen claramente las diferencias de estos dos espacios: 
+    p.text-center.mb-4(data-aos="fade-left") En la siguiente figura, se establecen claramente las diferencias de estos dos espacios: 
     
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
-      h5 Figura 1.
-      span  #[i Características de los espacios privados y públicos ]
-    
-    .row.justify-content-center.mb-4
-      .col-md-10.desktop(data-aos="zoom-in")
-        figure
+    .row.justify-content-center.mb-4.figura-flujo-ajuste(data-aos="flip-up")
+      .col-lg-10.col-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 1.
+          span #[i Características de los espacios privados y públicos ]
+      .col-10
+        figure.desktop.mb-0
           img(src='@/assets/curso/temas/tema1/img3.svg', alt='En la figura 1, se presentan las características de los espacios basada en Raciti & Vivaldi (2020), donde se compara el espacio privado y el espacio público. El espacio privado se caracteriza por ser familiar, cómodo, con reglas internas y enfoque individual, mientras que el espacio público es desconocido, requiere adaptación, fomenta el interés colectivo y privilegia el diálogo.')
           figcaption Nota. adaptado de Raciti & Vivaldi (2020).
-      .col-md-6.movil(data-aos="zoom-in")
-        figure
+      .col-12
+        figure.movil.mb-0
           img(src='@/assets/curso/temas/tema1/img3_1.svg', alt='En la figura 1, se presentan las características de los espacios basada en Raciti & Vivaldi (2020), donde se compara el espacio privado y el espacio público. El espacio privado se caracteriza por ser familiar, cómodo, con reglas internas y enfoque individual, mientras que el espacio público es desconocido, requiere adaptación, fomenta el interés colectivo y privilegia el diálogo.')
           figcaption Nota. adaptado de Raciti & Vivaldi (2020).
 
     p(data-aos="fade-left") Siendo el espacio privado, el espacio de lo familiar y conocido, se relaciona directamente con los contextos personal y familiar. En el contexto personal el ser humano a través de la vida va adquiriendo una estructura que le da la identidad personal y va configurando su carácter de acuerdo con sus propias estructuras físicas, mentales y psicológicas y con la interacción con su entorno en los procesos de socialización. Vivaldi, (2020).
     p.mb-5(data-aos="fade-left") En el proceso de desarrollo se va definiendo una trayectoria de vida desde los gustos, deseos y aspiraciones y dentro de las posibilidades que el entorno brinda. Se pueden fijar metas que se pueden o no cumplir, de acuerdo con las circunstancias personales.
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-6.col-sm-8.mb-lg-0.mb-4(data-aos="zoom-in")
-        img(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')
-      .col-lg-7
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-md-6.col-sm-8.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="zoom-in")
+        img(src='@/assets/curso/temas/tema1/img4.png', alt='')
+      .col-lg-6
         p(data-aos="fade-left") Hay que tomar conciencia de la realidad y de aquello que genere disgusto del entorno, fortaleciendo la capacidad de autodeterminación, la cual puede aprovechar en pro de sí mismo y de la comunidad en la que se vive.
         p(data-aos="fade-left") Hay que compartir con personas que permiten fortalecer la autoestima en entornos familiares, sociales, laborales, educativos y ciudadanos y utilizar herramientas de identificación y manejo de emociones en la vida personal y en la interacción con los otros. Desarrollando procesos de autoconocimiento que permiten identificar las emociones y la manera en que las se pueden regular.
         p(data-aos="fade-left") Además, se deben desarrollar capacidades para identificar diferentes perspectivas reconociendo al otro, sus pensamientos y sentimientos; reconocer los sentimientos y la perspectiva o punto de vista u opinión de otras personas y respetarlas.
@@ -98,121 +97,119 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img9.png', alt='Imagen deocrativa')
     
-    separador
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Interacción y competencias ciudadanas
+    .row.justify-content-center
+      .col.col-lg-10.col-12
+        p Este texto aborda cómo las interacciones con los demás y con el entorno contribuyen al desarrollo de competencias ciudadanas, sociales y laborales, facilitando la adaptación a los desafíos diarios, promoviendo el equilibrio entre las convicciones personales y las necesidades colectivas.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen deocrativa')
-      .col-lg-7
-        p(data-aos="fade-left") El desarrollo de relaciones humanas satisfactorias en diversos entornos sociales permite a las personas adaptarse y responder de manera efectiva a situaciones cotidianas. En los espacios públicos, estas interacciones fomentan la participación en decisiones colectivas, fortaleciendo las competencias ciudadanas y socioemocionales, promoviendo la construcción de una sociedad democrática. Las competencias ciudadanas incluyen habilidades cognitivas, emocionales y comunicativas que orientan la acción moral y política, fundamentadas en conocimientos básicos y en una actuación autónoma y constructiva en la sociedad.
-        .cajon.color-primario.p-4.mb-4
-          p(data-aos="fade-left") La formación ciudadana tiene como objetivo central la acción ciudadana autónoma, que trascienda lo personal y se manifiesta en el espacio público a través de la agencia. Esto requiere no solo conocimientos y competencias básicas socioemocionales, sino también un entorno favorable para su ejercicio.
+    separador
+
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.1. Ciudadanía y participación en los diferentes contextos
+
+    p.mb-4 La ciudadanía hace parte de la vida cotidiana y se expresa en la manera en que las personas participan, se relacionan y conviven en los diferentes espacios donde interactúan. Más allá del cumplimiento de derechos y deberes, la ciudadanía también implica la capacidad de dialogar, tomar decisiones, construir acuerdos y aportar al bienestar común desde las acciones y relaciones que se desarrollan en los entornos familiares, educativos, laborales, sociales y comunitarios.
+
+    .row.justify-content-center
+      .col-lg-10
+        .box___style_1(data-aos="zoom-in").mb-4
+          .row.align-items-center
+            .col-xl-auto.d-none.d-lg-block
+              figure
+                img(src='@/assets/curso/temas/tema1/img15.svg', alt='').m-auto
+            .col-xl.fit___box_container
+              p Las personas participan constantemente en diferentes contextos que influyen en sus experiencias, oportunidades y formas de relacionarse con los demás. La familia, la comunidad, las instituciones educativas, los espacios laborales y otros escenarios sociales son espacios donde se construyen aprendizajes, formas de convivencia y maneras de afrontar las situaciones que hacen parte de la vida cotidiana.
+              p.mb-0 En estos contextos, las competencias socioemocionales cumplen un papel importante, ya que fortalecen habilidades para comunicarse, resolver conflictos, trabajar con otras personas y participar de manera más consciente y respetuosa en diferentes espacios. Así mismo, permiten reconocer emociones, comprender diferentes perspectivas y fortalecer relaciones orientadas a la convivencia y la construcción colectiva.
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p Para garantizar una participación efectiva en la vida pública, es fundamental formar a las personas en tres dimensiones clave:
+    .row.justify-content-center
+      .col.col-lg-10.col-12
+        p Comprender la ciudadanía desde esta perspectiva permite reconocer que las acciones individuales también tienen efectos en las relaciones, en los entornos y en la manera en que las personas participan en la construcción de espacios más incluyentes, solidarios y participativos. Por esta razón, fortalecer capacidades para la convivencia, el diálogo y la participación contribuye tanto al bienestar personal como a la construcción de tejido social y transformación positiva de los entornos.
+
+    separador
+
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.2. Relaciones, convivencia y participación
+
+    p Las personas construyen relaciones e interactúan constantemente con otras personas en diferentes espacios de la vida cotidiana. La familia, la comunidad, los entornos educativos, laborales y sociales son escenarios donde se comparten experiencias, se construyen acuerdos y se desarrollan formas de convivencia que influyen en el bienestar individual y colectivo.
+    p.mb-4 La convivencia implica reconocer que las personas tienen diferentes formas de pensar, sentir y actuar. 
+
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img16.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p Por esta razón, el diálogo, el respeto, la escucha y la capacidad de comprender diferentes perspectivas son elementos importantes para fortalecer relaciones más positivas y construir entornos más incluyentes y solidarios.
+        br
+        br
+        p En este proceso, las competencias socioemocionales cumplen un papel fundamental, ya que favorecen la comunicación, la empatía, el manejo de conflictos y la capacidad de participar de manera respetuosa en diferentes espacios. Estas competencias permiten fortalecer habilidades para trabajar con otros, expresar ideas y emociones de manera adecuada y construir acuerdos frente a situaciones que afectan la convivencia o las relaciones con otras personas.
+
+    .row.justify-content-center.mb-4
+      .col.col-lg-10.col-12
+        p La participación también hace parte de la construcción de ciudadanía y convivencia. Participar no se limita únicamente a estar presente en un espacio o actividad; también implica involucrarse, expresar opiniones, escuchar a otros y aportar a la construcción de acciones orientadas al bienestar común.
+    
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        .cajon.color-secundario.p-4.mb-4
+          .row.justify-content-center
+            .col-lg-2.col-md-6.col-sm-8.mb-lg-0.mb-4(data-aos="zoom-in")
+              figure
+                img(src='@/assets/curso/temas/tema1/img17.svg', alt='')
+            .col-lg-10(data-aos="fade-left")
+              p.mb-0 Fortalecer relaciones positivas y espacios de participación contribuye a la construcción de entornos más respetuosos, colaborativos y orientados al fortalecimiento del tejido social, reconociendo que las acciones y decisiones de las personas también generan efectos en la vida de quienes les rodean.
+
+    Separador
+    
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.3. Las competencias socioemocionales en los diferentes contextos
+    
+    p Las competencias socioemocionales se desarrollan y fortalecen a través de las experiencias, las relaciones y las situaciones que las personas enfrentan en su vida cotidiana. Los entornos familiares, educativos, laborales, sociales y comunitarios influyen en la manera en que las personas aprenden a comunicarse, resolver conflictos, expresar emociones, tomar decisiones y relacionarse con los demás.
+    p.mb-4 Cada contexto presenta situaciones y desafíos que requieren poner en práctica diferentes habilidades para la vida. Por ejemplo, en algunos espacios puede ser necesario fortalecer la comunicación y el trabajo en equipo, mientras que en otros resulta importante desarrollar empatía, resiliencia, liderazgo o manejo de emociones frente a situaciones difíciles o cambios en el entorno.
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
-          .crd_hover_txt--img
-            figure
-              img(src="@/assets/curso/temas/tema1/img11.png", alt="alt")
-          .crd_hover_txt--body
-            .acordion__accion.acordion__accion__btn--b.h3.mb-0
-              i.fas.fa-angle-up
-            .ubicar
-              h4.mb-3 La palabra
-            p.mb-0 Transición de una comunicación egocentrada y emocionalmente cerrada hacia una palabra abierta, dialógica y disponible para los espacios públicos.
+      .col-lg-3.col-md-6.col-sm-8.mb-lg-0.mb-4.d-none.d-lg-block(data-aos="zoom-in")
+        img(src='@/assets/curso/temas/tema1/img18.png', alt='')
+      .col-lg-7
+        .cajon.cajon.C01.p-4
+          p El fortalecimiento de competencias socioemocionales permite a las personas afrontar de manera más consciente diferentes situaciones de la vida cotidiana, reconociendo sus capacidades, identificando oportunidades de mejora y construyendo relaciones más positivas con quienes les rodean. Estas competencias también favorecen la convivencia y la capacidad de actuar frente a situaciones que afectan el bienestar individual o colectivo.
+          p.mb-0 Así mismo, las competencias socioemocionales contribuyen al desarrollo de capacidades para la construcción de proyectos de vida, la toma de decisiones y la interacción en diferentes espacios sociales y comunitarios. Por esta razón, fortalecer habilidades como la empatía, la comunicación, la autoestima, la resiliencia, el liderazgo y el trabajo en equipo aporta tanto al desarrollo personal como a la construcción de entornos más incluyentes, solidarios y participativos.
 
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
-          .crd_hover_txt--img
-            figure
-              img(src="@/assets/curso/temas/tema1/img12.png", alt="alt")
-          .crd_hover_txt--body
-            .acordion__accion.acordion__accion__btn--b.h3.mb-0
-              i.fas.fa-angle-up
-            .ubicar
-              h4.mb-3 El poder
-            p.mb-0 Evolución de una visión del poder como fuerza o reivindicación hacia un enfoque basado en la agencia, es decir, la capacidad de actuar y generar opiniones y decisiones.
+    .row.justify-content-center.mb-4
+      .col.col-lg-10.col-12
+        p Reconocer la importancia de estas competencias en los diferentes contextos permite comprender que las relaciones, las emociones y las decisiones influyen no solo en la vida personal, sino también en la manera en que las personas aportan a la construcción de bienestar y convivencia en sus entornos.
 
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
-        .crd_hover_txt(data-aos="flip-left")
-          .crd_hover_txt--img
-            figure
-              img(src="@/assets/curso/temas/tema1/img13.png", alt="alt")
-          .crd_hover_txt--body
-            .acordion__accion.acordion__accion__btn--b.h3.mb-0
-              i.fas.fa-angle-up
-            .ubicar
-              h4.mb-3 El aparecer
-            p.mb-0 Movimiento del simple exhibirse, centrado en “expresar lo que soy”, hacia una presencia significativa que contribuya al diálogo en los espacios públicos. 
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down") 
+      .col-lg-10.col-md-10.col-12
+        .bloque-competencias-avatar.mb-4
+          .bloque-competencias-avatar__icono
+            img(src='@/assets/curso/temas/tema1/img19.svg' alt='')
+          .bloque-competencias-avatar__texto(style="background-color:#E7EFFA")
+            .p-4
+              p.mb-0 Las competencias socioemocionales también fortalecen la participación ciudadana y la capacidad de las personas para involucrarse de manera activa y constructiva en los diferentes espacios donde interactúan. Estas capacidades favorecen el diálogo, la construcción de acuerdos, la expresión de opiniones y el desarrollo de acciones orientadas al bienestar común.
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p Contextos social, laboral y ciudadano:
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
-        PasosA.color-acento-contenido.mb-5(tipo="l")
-          .row(titulo="")
-            .col-md-12.mb-4.mb-md-0
-              h5(data-aos="flip-left") Contexto social
-              p(data-aos="flip-left") Aquí, las relaciones interpersonales son fundamentales para avanzar en la trayectoria de vida. Se utilizan herramientas y estrategias que favorecen la colaboración y el logro de metas comunes.
-          .row(titulo="")
-            .col-md-12.mb-4.mb-md-0
-              h5(data-aos="flip-left") Contexto laboral
-              p(data-aos="flip-left") Este espacio incluye los entornos donde las personas desempeñan sus labores, como oficinas o fábricas, y está influenciado por factores que facilitan el cumplimiento de metas y el avance en proyectos de vida. Reflejar confianza y seguridad personal genera oportunidades y motiva a otros, permitiendo enfrentar los retos del mundo laboral.
-          .row(titulo="")
-            .col-md-12.mb-4.mb-md-0
-              h5 Contexto ciudadano
-              p(data-aos="flip-left") Este ámbito abarca los procesos de incidencia en decisiones relacionadas con políticas públicas, auditorías de derechos y cooperación entre instituciones. Aquí convergen tres tipos de actores: decisores, técnicos y ciudadanos. Para que este espacio funcione, es clave una formación que desarrolle habilidades para el diálogo, la generación de opiniones y la participación activa en la construcción de un orden democrático. 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p(data-aos="flip-left") En resumen, el fortalecimiento de Competencias Socioemocionales (CSE) y ciudadanas permite a los individuos actuar de manera constructiva en sus entornos sociales, laborales y públicos. Este desarrollo impulsa la agencia personal y colectiva, esencial para incidir en el espacio público y promover cambios significativos en la sociedad. El siguiente gráfico presenta esa relación:
+    .row.justify-content-center.mb-4
+      .col.col-lg-10.col-12
+        p De esta manera, fortalecer competencias como la comunicación, la empatía, la regulación emocional, el liderazgo y el trabajo en equipo contribuye al desarrollo de capacidades para tomar decisiones, actuar frente a situaciones que afectan la convivencia y aportar a la construcción de entornos más democráticos, participativos e incluyentes.
 
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
       h5 Figura 2.
-      span  #[i Relación competencias socioemocionales y ciudadanas]
+      span  #[i Relación competencias socioemocionales y ciudadanas ]
     
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema1/img14.svg', alt='n la figura 2, se presenta la relación de competencias: cognitivas, emocionales y comunicativas, y de acción ciudadana, que permiten actuar de manera constructiva en diferentes entornos que inciden en el espacio público.')
+          img(src='@/assets/curso/temas/tema1/img20-1.svg', alt='En la figura 2, se presenta la relación de competencias: cognitivas, emocionales y comunicativas, y de acción ciudadana, que permiten actuar de manera constructiva en diferentes entornos que inciden en el espacio público')
           figcaption Nota. Tomado de Chaux, (2012).
       .col-md-6.movil(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema1/img14_1.svg', alt='n la figura 2, se presenta la relación de competencias: cognitivas, emocionales y comunicativas, y de acción ciudadana, que permiten actuar de manera constructiva en diferentes entornos que inciden en el espacio público.')
+          img(src='@/assets/curso/temas/tema1/img20-2.svg', alt='En la figura 2, se presenta la relación de competencias: cognitivas, emocionales y comunicativas, y de acción ciudadana, que permiten actuar de manera constructiva en diferentes entornos que inciden en el espacio público')
           figcaption Nota. Tomado de Chaux, (2012).
-
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p(data-aos="flip-left") Ser ciudadano significa tener espacios y herramientas para participar en la sociedad sin presiones ni imposiciones. Esto implica poder debatir libremente sobre temas importantes y que las decisiones se basen en los mejores argumentos, no en el capricho de quien tiene el poder. (Raciti & Vivaldi, 2020.).
-        p(data-aos="flip-left") Asumiendo este esquema conceptual como referencia, se puede construir una tabla coherente con los principios en los cuales estamos enmarcando la acción de fortalecimiento de las CSE:
-
-
-    .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
-      h5 Tabla 1.
-      span  #[i Dimensiones  pedagógicas de la formación a la ciudadanía y constructos socioemocionales correspondientes]
-    .tabla-b.color-acento-contenido.mb-5
-      table(alt="La tabla 1 presenta las dimensiones pedagógicas asociadas a la formación en ciudadanía y los constructos socioemocionales correspondientes. La formación a la palabra está vinculada con la comunicación, mientras que la formación al poder incluye empatía, regulación emocional, resiliencia, manejo de conflictos, trabajo en equipo y liderazgo. Por su parte, la formación al aparecer se relaciona con autoestima, empatía y regulación emocional.")
-        tr.bg2
-          th(style="width: 40%;") Dimensiones pedagógicas
-          th(style="width: 60%;") Constructos socioemocionales
-        tr
-          td  Formación a la palabra
-          td  Comunicación 
-        tr
-          td  Formación al poder
-          td Empatía, regulación emocional, resiliencia, manejo de conflictos, trabajo en equipo, liderazgo
-
-        tr
-          td  Formación al aparecer
-          td
-            p Autoestima, empatía, regulación emocional
+    
+    .row.justify-content-center.mb-4
+      .col-lg-8.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
+        p En síntesis, los diferentes contextos en los que participan las personas influyen en la construcción de relaciones, formas de convivencia y maneras de afrontar las situaciones de la vida cotidiana. En estos espacios, las competencias socioemocionales fortalecen capacidades para comunicarse, participar, resolver conflictos y construir relaciones más respetuosas y solidarias.
+        .cajon.cajon.C02.color-secundario.px-4.py-3.mb-4
+          p.mb-0(data-aos="fade-down") Comprender la ciudadanía desde la vida cotidiana permite reconocer que las acciones individuales y colectivas generan efectos en los entornos donde las personas interactúan. Por esta razón, fortalecer habilidades para la convivencia, la participación y el trabajo con otros contribuye tanto al bienestar personal como al fortalecimiento del tejido social y la construcción de entornos más incluyentes y participativos.
+      .col-lg-2.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/temas/tema1/img21.svg', alt='')
 
 </template>
 

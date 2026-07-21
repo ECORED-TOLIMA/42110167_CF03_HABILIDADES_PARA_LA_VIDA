@@ -3,12 +3,14 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A continuación, se describe una visión general del componente formativo “Las competencias socioemocionales y la transformación social”, el cual ofrece un análisis integral de los contextos ciudadanos y su relación con la interacción y el desarrollo de competencias ciudadanas. Además, aborda la importancia de la agencia como motor de transformación social, destacando su rol en la toma de decisiones y en la generación de cambios significativos. También se presentan los elementos fundamentales del marco lógico, incluyendo sus fases de implementación, desde el diagnóstico inicial hasta el monitoreo y evaluación, y un ejemplo práctico que ilustra su aplicación en la resolución de problemas comunitarios.
+    p Las competencias socioemocionales fortalecen la capacidad de las personas para comprender las situaciones que viven, relacionarse con los demás, tomar decisiones y participar en la construcción de cambios positivos en sus entornos.
+    p A través del reconocimiento de las emociones, las necesidades, las relaciones y los contextos cotidianos, es posible fortalecer capacidades que aporten al bienestar personal, la convivencia, la participación y la construcción de entornos más solidarios e incluyentes.
+    p.mb-4 Desde esta perspectiva, la transformación social también se construye desde las acciones cotidianas, la participación y el desarrollo de capacidades que permitan actuar frente a situaciones que afectan el bienestar individual y colectivo.
 
     .row.justify-content-center
-      .col-lg-10.mb-5(data-aos="fade-right")
+      .col-lg-12.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente formativo “Las competencias socioemocionales y la transformación social”, se explora los contextos ciudadanos, la agencia como herramienta de cambio social, y el marco lógico como metodología para diseñar y evaluar proyectos comunitarios, ilustrado con un ejemplo práctico.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente formativo “Las competencias socioemocionales (CSE) y la transformación social”, se explora los contextos ciudadanos, la agencia como herramienta de cambio social, y el marco lógico como metodología para diseñar y evaluar proyectos comunitarios, ilustrado con un ejemplo práctico.")
       .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

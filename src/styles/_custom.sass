@@ -4,7 +4,7 @@
     animation: scale 3.8s ease-in-out infinite alternate
     position: absolute
     top: 25%
-    right: 70%
+    right: 75%
   &-2
     width: 75px
     animation: float2 2.8s ease-in-out infinite alternate
@@ -61,12 +61,6 @@
   100%
     transform: scale(1.2)
 
-
-.banner-principal__row .banner-principal__img
-  //width: 400px !important 
-  padding-bottom: 0 !important
-  padding-left: 3rem !important
-
 // versión escritorio/movil
 @media (min-width: 992px)
   .desktop 
@@ -78,6 +72,48 @@
     display: inline
   .desktop 
     display: none
+
+.banner-principal .tarjeta
+  background-position: left 50% !important
+
+.banner-principal__row .banner-principal__img
+  width: 489.5px !important
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: $black !important
+
+.boton *, .boton--sm *,
+.barra-avance__boton--regresar span
+  color: $white !important
+.banner-interno__titulo h1, .banner-interno__titulo h2, 
+.banner-interno__titulo h3, .banner-interno__titulo h4, 
+.banner-interno__titulo h5, .banner-interno__titulo h6
+  color: $color-sistema-texto !important  
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: black !important
+figcaption 
+  font-weight: normal !important
+
+.banner-interno__titulo__icono i
+  color: $color-primario !important;
+
+.banner-principal
+  .banner-principal__row
+    transform: translateY(35px)
+
+.banner-principal
+  .container.tarjeta
+    background-image: url("../assets/curso/portada/fondo-banner-principal.png")
+    background-size: 100% 100% !important
+    background-position: center
+    min-height: 520px
+    @media (max-width: $bp-max-md)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png") !important
+      overflow: visible !important
+      background-size: 100% 100% !important
+    @media (max-width: $bp-max-xs)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+      overflow: visible !important
 
 .acordion__accion.acordion__accion__btn--b
   background-color: $color-acento-botones
@@ -243,3 +279,145 @@
 
 .cajon.color-secundario
   background-color: #E7EFFA
+
+.box___style_1
+  background-color: #D1EEEE
+  padding-right: 1rem
+  @media screen and (max-width: 1200px)
+    padding: 0rem
+    img
+      margin: 0rem !important
+      padding: 0rem !important
+
+.box___style_2
+  background-color: #E6F3F3
+  padding-right: 1rem
+  @media screen and (max-width: 1200px)
+    padding: 0rem
+    img
+      margin: 0rem !important
+      padding: 0rem !important
+
+.fit___box_container
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem 2rem
+
+//- Modulo cajones
+.cajon.C01
+  background-color: #D1EEEE
+.cajon.C02
+  background-color: #E7EFFA
+.cajon.C03
+  background-color: #E6F3F3
+.cajon.C04
+  background-color: #C2E8E8
+
+.tarjeta.color-secundario
+  background-color: #E7EFFA
+
+.bloque-competencias-avatar
+  display: grid
+  grid-template-columns: 90px 1fr
+  align-items: center
+  width: 100%
+
+  &__icono
+    position: relative
+    z-index: 2
+    display: flex
+    align-items: center
+    justify-content: center
+
+    img
+      width: 120px !important
+      max-width: 120px !important
+      height: auto !important
+      display: block
+
+  &__texto
+    min-height: 150px
+    border-radius: 18px
+    display: flex
+    align-items: center
+    padding: 1rem 1rem 1rem 4rem
+    margin-left: -35px
+
+    p
+      margin-bottom: 0 !important
+      line-height: 1.45
+
+@media (max-width: 991.98px)
+  .bloque-competencias-avatar
+    grid-template-columns: 75px 1fr
+
+    &__icono
+      img
+        width: 100px !important
+        max-width: 100px !important
+
+    &__texto
+      min-height: 135px
+      padding: 1.5rem 1.5rem 1.5rem 4rem
+      margin-left: -30px
+
+@media (max-width: 575.98px)
+  .bloque-competencias-avatar
+    grid-template-columns: 1fr
+    justify-items: center
+
+    &__icono
+      margin-bottom: -42px
+
+      img
+        width: 100px !important
+        max-width: 100px !important
+
+    &__texto
+      width: 100%
+      margin-left: 0
+      padding: 4rem 1.5rem 1.5rem
+      text-align: center
+      min-height: auto
+
+.recurso-transformacion
+  background-color: #D1EEEE
+  width: 100%
+
+  > .row
+    margin-left: 0 !important
+    margin-right: 0 !important
+
+  figure
+    img
+      display: block
+      width: 100%
+      max-width: 100%
+      height: auto
+
+  &__contenido
+    display: flex
+    flex-direction: column
+    justify-content: center
+
+    figure
+      margin: 0 0 1rem 0 !important
+
+      img
+        width: 78px
+        max-width: 78px
+        height: auto
+
+    p
+      line-height: 1.45
+      margin-bottom: 0
+
+.figura-flujo-ajuste
+  figure
+    margin-left: 0 !important
+    margin-right: 0 !important
+
+    img
+      display: block
+      width: 100%
+      margin-left: 0 !important
+      margin-right: 0 !important

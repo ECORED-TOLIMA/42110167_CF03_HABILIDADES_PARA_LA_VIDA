@@ -3,12 +3,12 @@ export default {
     Name: 'Las Competencias Socioemocionales (CSE) y la trasformación social',
     Description:
       'El Desarrollo a Escala Humana (DEH) impone retos en el desarrollo de las Competencias Socioemocionales (CSE), desde la construcción de ciudadanías y las posibilidades del agenciamiento para la transformación personal y social en los diferentes contextos de la vida.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
     ],
   },
@@ -33,33 +33,64 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Interacción y competencias ciudadanas',
+            titulo: 'Ciudadanía y participación en los diferentes contextos',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Relaciones, convivencia y participación',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Las competencias socioemocionales en los diferentes contextos',
+            hash: 't_1_3',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
         titulo: 'La agencia y la producción de transformaciones sociales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'La agencia y la capacidad de actuar en los diferentes contextos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Participación, liderazgo y transformación social',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Las competencias socioemocionales y la construcción de cambios en el entorno',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Elementos del marco lógico',
+        titulo: 'De la reflexión a la acción: competencias socioemocionales y transformación del entorno',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Fases de implementación del marco lógico',
+            titulo: 'Reconocer la realidad desde la vida cotidiana',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Ejemplo práctico de marco lógico',
+            titulo: 'Las competencias socioemocionales y la toma de decisiones',
             hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Construcción de cambios en el entorno',
+            hash: 't_3_3',
           },
         ],
       },
