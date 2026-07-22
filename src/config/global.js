@@ -43,7 +43,8 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Las competencias socioemocionales en los diferentes contextos',
+            titulo:
+              'Las competencias socioemocionales en los diferentes contextos',
             hash: 't_1_3',
           },
         ],
@@ -56,7 +57,8 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'La agencia y la capacidad de actuar en los diferentes contextos',
+            titulo:
+              'La agencia y la capacidad de actuar en los diferentes contextos',
             hash: 't_2_1',
           },
           {
@@ -66,7 +68,8 @@ export default {
           },
           {
             numero: '2.3',
-            titulo: 'Las competencias socioemocionales y la construcción de cambios en el entorno',
+            titulo:
+              'Las competencias socioemocionales y la construcción de cambios en el entorno',
             hash: 't_2_3',
           },
         ],
@@ -74,7 +77,8 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'De la reflexión a la acción: competencias socioemocionales y transformación del entorno',
+        titulo:
+          'De la reflexión a la acción: competencias socioemocionales y transformación del entorno',
         desarrolloContenidos: true,
         subMenu: [
           {
