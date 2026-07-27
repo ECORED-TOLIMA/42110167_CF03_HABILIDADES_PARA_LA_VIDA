@@ -25,7 +25,7 @@
 
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
       h5 Figura 3.
-      span  #[i Tipos de agencia     ]
+      span Tipos de agencia
     
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")

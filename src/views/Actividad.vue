@@ -317,7 +317,7 @@ export default {
           mensaje_correcto:
             'Sus indicadores ayudan a medir avances y ajustar estrategias.',
           mensaje_incorrecto:
-            '¡Continua no te rindas! Equivocarse es aprender. Sigue intentando, estás en el camino correcto. ¡Tú puedes!',
+            '¡Continúe no se rinda! Equivocarse es aprender. Siga intentando, está en el camino correcto.',
         },
       ],
       mensaje_final_aprobado:

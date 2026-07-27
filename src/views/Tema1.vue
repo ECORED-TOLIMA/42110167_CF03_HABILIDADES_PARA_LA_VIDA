@@ -34,7 +34,7 @@
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
-          span #[i Características de los espacios privados y públicos ]
+          span Características de los espacios privados y públicos
       .col-10
         figure.desktop.mb-0
           img(src='@/assets/curso/temas/tema1/img3.svg', alt='En la figura 1, se presentan las características de los espacios basada en Raciti & Vivaldi (2020), donde se compara el espacio privado y el espacio público. El espacio privado se caracteriza por ser familiar, cómodo, con reglas internas y enfoque individual, mientras que el espacio público es desconocido, requiere adaptación, fomenta el interés colectivo y privilegia el diálogo.')
@@ -190,7 +190,7 @@
 
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
       h5 Figura 2.
-      span  #[i Relación competencias socioemocionales y ciudadanas ]
+      span Relación competencias socioemocionales y ciudadanas
     
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")
